@@ -1,0 +1,172 @@
+<?php
+/**
+ * @file
+ * Module file for weather
+ */
+
+require_once __DIR__ . "/include/weather.class.php";
+
+/**
+ * Implements hook_menu().
+ *
+ * Provides a default page to explain what this module does.
+ */
+function weather_menu()
+{
+    $items['weather-single'] = array(
+        'page callback' => 'weather_single_page',
+        'access callback' => true,
+        'title' => t('Weather'),
+    );
+
+    $items['weather'] = array(
+        'page callback' => 'weather_tabbed_page',
+        'access callback' => true,
+        'title' => t('Weather'),
+    );
+
+    $items['weather/%'] = array(
+        'page callback' => 'weather_tabbed_page',
+        'page arguments' => array(1),
+        'access callback' => true,
+        'title' => t('Weather'),
+    );
+
+    return $items;
+}
+
+/**
+ * Single page function
+ */
+function weather_single_page()
+{
+    // CSS
+    $module_path = drupal_get_path('module', 'weather');
+    drupal_add_css($module_path . '/css/page.css', array('group' => CSS_DEFAULT, 'every_page' => FALSE));
+
+    // HTML
+    $template_name = "page";
+    $city_id = variable_get('weather_city', 28367);
+
+    $page = array(
+        '#type' => 'markup',
+        '#markup' => \Weather\Weather::execute($template_name, $city_id),
+    );
+
+    return $page;
+}
+
+function weather_tabbed_page($period = '')
+{
+    // CSS
+    $module_path = drupal_get_path('module', 'weather');
+    drupal_add_css($module_path . '/css/page-tabbed.css', array('group' => CSS_DEFAULT, 'every_page' => FALSE));
+
+    // HTML
+    switch ((int)$period) {
+        case 1:
+        case 3:
+        case 5:
+        case 7:
+        case 10:
+        case 14:
+            $template_name = "_page-tabbed-{$period}";
+            break;
+
+        case 0:
+        default:
+            $template_name = "page-tabbed";
+    }
+
+    $city_id = variable_get('weather_city', 28367);
+
+    $page = array(
+        '#type' => 'markup',
+        '#markup' => \Weather\Weather::execute($template_name, $city_id),
+    );
+
+    return $page;
+}
+
+/**
+ * Implements hook_block_info().
+ *
+ * This hook declares what blocks are provided by the module.
+ */
+function weather_block_info()
+{
+    $templates = \Weather\Weather::get_templates();
+
+    foreach($templates as $template) {
+        $blocks[$template] = array(
+            'info' => 'Weather: ' . $template,
+        );
+    }
+
+    return $blocks;
+}
+
+/**
+ * Implements hook_block_configure().
+ *
+ * This hook declares configuration options for blocks provided by this module.
+ */
+function weather_block_configure($delta = '')
+{
+    $form = array();
+    $city_id = variable_get('weather_city', 28367);
+
+    $form['weather_city'] = array(
+        '#type' => 'textfield',
+        '#title' => t('City'),
+        '#size' => 60,
+        '#description' => t('City.'),
+        '#default_value' => $city_id,
+    );
+
+    $form['weather_title'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Текст в информере'),
+        '#size' => 60,
+        '#default_value' => variable_get('weather_title', 'Погода в Тюмени'),
+    );
+
+    return $form;
+}
+
+/**
+ * Implements hook_block_save().
+ *
+ * This hook declares how the configured options for a block
+ * provided by this module are saved.
+ */
+function weather_block_save($delta = '', $edit = array())
+{
+    variable_set('weather_city', $edit['weather_city']);
+    variable_set('weather_title', $edit['weather_title']);
+}
+
+/**
+ * Implements hook_block_view().
+ *
+ * This hook generates the contents of the blocks themselves.
+ */
+function weather_block_view($delta = '')
+{
+    // Settings
+    $city_id = variable_get('weather_city', 28367);
+    $text = variable_get('weather_title', 'Погода в Тюмени');
+
+    // CSS
+    $module_path = drupal_get_path('module', 'weather');
+    $filename = "{$module_path}/css/{$delta}.css";
+
+    if (file_exists($filename)) {
+        drupal_add_css($filename, array('group' => CSS_DEFAULT, 'every_page' => FALSE));
+    }
+
+    // HTML
+    $block['content'] = \Weather\Weather::execute($delta, $city_id, $text);
+
+    return $block;
+}

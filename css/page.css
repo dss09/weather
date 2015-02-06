@@ -1,0 +1,314 @@
+/* wetather */
+
+.weather {
+    font-size: 10px;
+    font-family: verdana, helvetica, Arial Cyr, Tahoma, sans-serif;
+    color: #000;
+}
+
+.weather table {
+    margin: 0;
+}
+
+.weather th,
+.weather td {
+    padding: 0;
+}
+
+.weather table tbody {
+    border: none;
+}
+
+.weather .vline {
+    width: 2px;
+    background-color: #ccc;
+    overflow: hidden;
+}
+
+.weather .current .title {
+    font-size: 28px;
+    color: #333;
+    font-weight:normal;
+    /* vertical-align: top; */
+}
+
+.weather .current td.title
+{
+    width: 120px;
+}
+
+.weather .current a.action
+{
+    color: #666;
+    font-weight:normal;
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.weather .current .now {
+    font-size: 22px;
+    color: #065D7D;
+    font-weight:normal;
+    text-align: center;
+    vertical-align: top;
+}
+
+.weather .current .desc {
+    font-size: 11px;
+    color: #666;
+    font-weight:normal;
+    padding-left: 15px;
+    line-height: 20px;
+}
+
+.weather .precipitation
+{
+    font-size: 10px;
+    color: #747474;
+    font-weight:normal;
+}
+
+.weather .current .title .precip{
+    font-size: 10px;
+    color: #03424a;
+    font-weight:normal;
+}
+
+.weather .precip {
+    font-size: 11px !important;
+    color: #666 !important;
+    font-weight:normal;
+    padding: 0;
+}
+
+.weather .desc {
+    font-size: 13px;
+    color: #000;
+    font-weight:normal;
+    /*vertical-align: top;*/
+    white-space: normal;
+    font-family: verdana, helvetica, Arial Cyr, Tahoma, sans-serif;
+}
+
+.weather .desc a
+{
+    font-size: 13px;
+}
+
+.weather .current .desc span {
+    color: #333;
+}
+/*
+.weather .current .columns {
+	#float:left;
+	#clear: none;
+	margin: 0 2.55% 0 0;
+	#width: 20%;
+}*/
+
+.weather .current .columns div {
+    font-size: 18px;
+    color: #5ba7a7;
+    font-weight:normal;
+    text-align: left;
+    vertical-align: top;
+    padding: 10px 0 5px 0;
+}
+
+.weather .current .columns div div {
+    font-size: 12px;
+    color: #5ba7a7;
+    font-weight: normal;
+    text-align: left;
+    padding: 3px 0 3px 0;
+}
+
+/*.weather .current .city-line {
+	background-color: #FFFFFF;
+	position: absolute;
+	z-index: 50;
+}*/
+
+.weather .action {
+    font-family: verdana, helvetica, Arial Cyr, Tahoma, sans-serif;
+    font-size: 11px;
+    color: #065D7D;
+}
+
+.weather .footer_links
+{
+    font-size: 11px;
+}
+
+.weather .dashed {
+    text-decoration: none;
+    border-bottom: 1px dashed #065D7D;
+    position:relative;
+}
+
+.weather .comments_action {
+    font-family: verdana, helvetica, Arial Cyr, Tahoma, sans-serif;
+    font-size: 10px;
+    color: #666;
+}
+
+.weather .date {
+    font-size: 11px;
+    color: #000;
+    font-weight:normal;
+}
+
+.weather .date a {
+    text-decoration: none;
+}
+
+.weather .date div {
+    position: absolute;
+    text-align: left;
+}
+
+.weather .day {
+    font-size: 22px;
+    color: #00658c;
+    text-decoration: none;
+}
+
+.weather  .daywe {
+    font-size: 22px;
+    color: #d71c21;
+    text-decoration: none;
+}
+
+.weather .list {
+    padding: 0;
+    margin: 0;
+}
+
+.weather .list td {
+    padding: 5px;
+}
+
+.weather .list .head td {
+    font-size: 10px;
+    color: #fff;
+    font-weight:bold;
+    padding: 0 5px;
+}
+
+.weather .list .adv1 {
+    font-size: 10px;
+    font-weight:normal;
+}
+
+.weather .list td.vline {
+    padding:1px;
+    background-color: #FFF;
+    vertical-align: top;
+}
+
+.weather .list tr.line td {
+    padding: 0;
+}
+
+.weather .list .temp1 {
+    font-size: 20px;
+    color: #007cac;
+    font-weight:normal;
+}
+
+.weather .list .temp2 {
+    font-size: 20px;
+    color: #939494;
+    font-weight:normal;
+    margin-left: 10px;
+}
+
+.weather .list .hour {
+    font-size: 13px;
+    color: #000;
+    display: block;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.weather .blockbg {
+    background-color: #005a52;
+}
+
+.weather .ecology {
+    float: right;
+    margin-top: -3px;
+    padding-right: 25px;
+    position: relative;
+}
+
+.weather .ecology a, a:link, a:visited {
+    color: #065d7d;
+    font-size: 11px;
+}
+
+.weather .ecology a:hover {
+    color: #c00;
+}
+
+.block-body .weather {
+    width: 220px;
+    margin: 0;
+}
+
+.block-body .weather .title {
+    text-align: right;
+    padding: 3px 9px 3px 0;
+    color: #FFF;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.block-body .weather .content {
+    text-align: left;
+    padding: 3px 0;
+    background-color: #FFF;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.block-body .weather .content li {
+    padding: 4px 0;
+}
+
+.block-body .weather .content .tableft {
+    padding: 0 0 0 9px;
+    font-size: 11px;
+}
+
+.block-body .weather .content .tableft a {
+    font-size: 12px;
+}
+
+.block-body .weather .content .tabright {
+    font-size: 13px;
+    color: #6D6D6D;
+    font-weight: bold;
+    padding: 0 9px 0 0;
+    text-align: right;
+    float: right;
+}
+
+.js-comment div.micro .title div.weather {
+    font-family: verdana, helvetica, Arial Cyr, Tahoma, sans-serif;
+    position: relative;
+    float: left;
+    width: 20%;
+    padding-left: 16px;
+}
+
+.js-comment div.micro .title div.weather * {
+    float: left;
+}
+
+.js-comment div.micro .title div.weather .t{
+    font-size: 13px;
+    font-weight: bold;
+    color: #0F5656;
+}

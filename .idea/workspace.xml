@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de86c8b-dec6-438f-9375-a640ecea2ce7" name="Default" comment="" />
+    <ignored path="weather72.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="weather72" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="weather.module" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="29" selection-start="379" selection-end="379" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="2355">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_page-tabbed-day-full.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-day-full.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="64" selection-start="188" selection-end="188" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="705">
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weather.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="130" column="85" selection-start="3522" selection-end="3522" vertical-scroll-proportion="-15.75" vertical-offset="1497" max-vertical-offset="2070">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-tabbed.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/page-tabbed.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="49" selection-start="675" selection-end="675" vertical-scroll-proportion="-8.875" vertical-offset="132" max-vertical-offset="900">
+              <folding>
+                <element signature="e#6#85#0" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weather-tabbed.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/weather-tabbed.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="147" column="22" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.79452056" vertical-offset="1741" max-vertical-offset="2895">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/weather.css" />
+        <option value="$PROJECT_DIR$/grap_icons.php" />
+        <option value="$PROJECT_DIR$/day.tpl.php" />
+        <option value="$PROJECT_DIR$/day_wide.tpl.php" />
+        <option value="$PROJECT_DIR$/day_full.tpl.php" />
+        <option value="$PROJECT_DIR$/day_short.tpl.php" />
+        <option value="$PROJECT_DIR$/page.tpl.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/block_example.info" />
+        <option value="$PROJECT_DIR$/block_example.module" />
+        <option value="$PROJECT_DIR$/weather-day-wide.tpl.php" />
+        <option value="$PROJECT_DIR$/weather-page.tpl.php" />
+        <option value="$PROJECT_DIR$/weather-day-short.tpl.php" />
+        <option value="$PROJECT_DIR$/css/weather.css" />
+        <option value="$PROJECT_DIR$/weather-day-full.tpl.php" />
+        <option value="$PROJECT_DIR$/weather.class.php" />
+        <option value="$PROJECT_DIR$/include/Renderers/Full.php" />
+        <option value="$PROJECT_DIR$/include/Renderers/Short.php" />
+        <option value="$PROJECT_DIR$/templates/weather-page.tpl.php" />
+        <option value="$PROJECT_DIR$/include/Renderers/Wide.php" />
+        <option value="$PROJECT_DIR$/include/Renderers/Sidebar.php" />
+        <option value="$PROJECT_DIR$/include/Renderers/Page.php" />
+        <option value="$PROJECT_DIR$/templates/tabbed.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-day-wide.tpl.php" />
+        <option value="$PROJECT_DIR$/include/weather.class.php" />
+        <option value="$PROJECT_DIR$/include/Parsers/Yandex.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-day-short.tpl.php" />
+        <option value="$PROJECT_DIR$/weather.module" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-3.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-7.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-10.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-14.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-day-full.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/_page-tabbed-day-wide.tpl.php" />
+        <option value="$PROJECT_DIR$/templates/page-tabbed.tpl.php" />
+        <option value="$PROJECT_DIR$/css/weather-tabbed.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.3" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parsers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weather72" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Tests" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../grabber/include/Processors/Collector.php" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/include/Renderers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/include" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img/weather/default" />
+      <recent name="$PROJECT_DIR$/img/large/day" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="grap_icons.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/grap_icons.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.grap_icons.php" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de86c8b-dec6-438f-9375-a640ecea2ce7" name="Default" comment="" />
+      <created>1423043837371</created>
+      <updated>1423043837371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="739" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26435044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weather.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="6" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="2269" selection-end="2269" vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="2160">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="47" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Parsers/Yandex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="0" selection-start="7854" selection-end="7854" vertical-scroll-proportion="0.0" vertical-offset="3465" max-vertical-offset="3555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page-tabbed.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1290">
+          <folding>
+            <element signature="e#6#85#0" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="96" selection-start="8055" selection-end="8055" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="5295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="4868" selection-end="4868" vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="2430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-short.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="113" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-full.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-wide.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/weather.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="15" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="4800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1044" column="9" selection-start="30807" selection-end="30807" vertical-scroll-proportion="0.35492957" vertical-offset="15534" max-vertical-offset="17265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/small/night/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/small/day/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/large/day/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/large/night/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/middle/day/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/middle/night/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/small/day/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/weather/default/small/night/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/simple_html_dom.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="26" selection-start="5368" selection-end="5388" vertical-scroll-proportion="0.45535713" vertical-offset="900" max-vertical-offset="25575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.10050251" vertical-offset="0" max-vertical-offset="597" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="570" column="9" selection-start="16575" selection-end="16575" vertical-scroll-proportion="0.34729493" vertical-offset="8351" max-vertical-offset="16890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../grabber/include/Store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="50" selection-start="1874" selection-end="1874" vertical-scroll-proportion="-4.7285466" vertical-offset="3825" max-vertical-offset="4575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../grabber/include/Processors/Collector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="462" selection-end="884" vertical-scroll-proportion="0.7635727" vertical-offset="89" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-short.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="113" selection-start="470" selection-end="470" vertical-scroll-proportion="0.3315412" vertical-offset="10" max-vertical-offset="570" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="794" column="9" selection-start="25503" selection-end="25503" vertical-scroll-proportion="0.34767026" vertical-offset="11716" max-vertical-offset="16530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/weather.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="15" selection-start="2793" selection-end="2793" vertical-scroll-proportion="0.025210084" vertical-offset="2580" max-vertical-offset="4800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Parsers/Rp5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="130" selection-end="130" vertical-scroll-proportion="0.21015762" vertical-offset="0" max-vertical-offset="571" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Parsers/Gismeteo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="135" selection-end="135" vertical-scroll-proportion="0.21015762" vertical-offset="0" max-vertical-offset="571" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="0" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.85714287" vertical-offset="675" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-full.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-day-wide.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="114" selection-start="0" selection-end="1353" vertical-scroll-proportion="0.5625" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-day-short.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="58" selection-start="203" selection-end="203" vertical-scroll-proportion="0.08035714" vertical-offset="0" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-7.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="28" selection-start="619" selection-end="619" vertical-scroll-proportion="0.41884816" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-10.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="729" selection-end="729" vertical-scroll-proportion="0.5497382" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-14.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="729" selection-end="729" vertical-scroll-proportion="0.5497382" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="29" selection-start="379" selection-end="379" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="2355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Parsers/Yandex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="951" selection-end="951" vertical-scroll-proportion="0.25714287" vertical-offset="471" max-vertical-offset="3900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-3.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="11" selection-start="553" selection-end="570" vertical-scroll-proportion="0.41884816" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-day-full.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="64" selection-start="188" selection-end="188" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="705">
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/weather.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="85" selection-start="3522" selection-end="3522" vertical-scroll-proportion="-15.75" vertical-offset="1497" max-vertical-offset="2070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/_page-tabbed-day-wide.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="15" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.625" vertical-offset="430" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page-tabbed.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="49" selection-start="675" selection-end="675" vertical-scroll-proportion="-8.875" vertical-offset="132" max-vertical-offset="900">
+          <folding>
+            <element signature="e#6#85#0" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/weather-tabbed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="22" selection-start="2970" selection-end="2970" vertical-scroll-proportion="0.79452056" vertical-offset="1741" max-vertical-offset="2895">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
