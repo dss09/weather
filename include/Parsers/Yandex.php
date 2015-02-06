@@ -256,4 +256,20 @@ class Yandex {
 
         return false;
     }
+
+    static function get_cities() {
+        $cities = array();
+
+        $url = 'https://pogoda.yandex.ru/static/cities.xml';
+
+        $dom = file_get_html($url);
+
+        foreach($dom->find('country') as $country) {
+            foreach($country->find('city') as $city) {
+                $cities[$country->name][$city->id] = $city->plaintext;
+            }
+        }
+
+        return $cities;
+    }
 }

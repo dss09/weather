@@ -116,6 +116,20 @@ function weather_block_configure($delta = '')
     $form = array();
     $city_id = variable_get('weather_city', 28367);
 
+    //
+    $cities = \Weather\Parsers\Yandex::get_cities();
+    foreach($cities as $caountry=>&$cities2) {
+        asort($cities2);
+    }
+    $options = $cities;
+
+    $form['weather_city'] = array(
+        '#type' => 'select',
+        '#title' => t('City'),
+        '#options' => $options,
+        '#default_value' => $city_id,
+    );
+/*
     $form['weather_city'] = array(
         '#type' => 'textfield',
         '#title' => t('City'),
@@ -123,7 +137,7 @@ function weather_block_configure($delta = '')
         '#description' => t('City.'),
         '#default_value' => $city_id,
     );
-
+*/
     $form['weather_title'] = array(
         '#type' => 'textfield',
         '#title' => t('Текст в информере'),
