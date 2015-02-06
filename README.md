@@ -12,7 +12,7 @@
 ## Скриншоты
 
 Маленький блок
-![](https://docs.google.com/file/d/0B5GonWS9PJmAVnE0WVVrSng5b3M/edit?usp=drivesdk)
+![](https://drive.google.com/open?id=0B5GonWS9PJmAVnE0WVVrSng5b3M&authuser=0)
 
 Страница с табами
 ![]()
