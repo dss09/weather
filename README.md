@@ -12,13 +12,13 @@
 ## Скриншоты
 
 Маленький блок
-!(https://docs.google.com/file/d/0B5GonWS9PJmAVnE0WVVrSng5b3M/edit?usp=drivesdk)
+![](https://docs.google.com/file/d/0B5GonWS9PJmAVnE0WVVrSng5b3M/edit?usp=drivesdk)
 
 Страница с табами
-!()
+![]()
 
 Одиночная страница
-!()
+![]()
 
 ## Ссылки
 * Страница с табами: /weather, /weather/3, /weather/7, /weather/10
