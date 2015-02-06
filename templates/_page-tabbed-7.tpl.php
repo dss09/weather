@@ -10,6 +10,7 @@ $days_short[] = array_shift($days);
 <ul class="tabsmenu clear">
     <li><?= l('Сейчас', 'weather') ?></li>
     <li><?= l('На 3 дня', 'weather/3') ?></li>
+    <li><?= l('На 5 дней', 'weather/5') ?></li>
     <li><?= l('На неделю', 'weather/7', array('attributes' => array('class' => array('active')))) ?></li>
     <li><?= l('На 10 дней', 'weather/10') ?></li>
 </ul>
