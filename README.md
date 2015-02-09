@@ -14,7 +14,7 @@
 
 Маленький блок
 
-![](https://lh5.googleusercontent.com/R870_5tgPo1lDr80hM4D4E1kNWgSKj5vsEpI613CXbj-GVjYG9510dedGFLzpWOeiHvyxMCpVDM=w1342-h530)
+![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAVnE0WVVrSng5b3M)
 
 Страница с табами
 
