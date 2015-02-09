@@ -18,11 +18,11 @@
 
 Страница с табами
 
-![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAdDlHcjNHY2U0eHc)
+![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAZGZiSjAzTXJtTUU)
 
 Одиночная страница
 
-![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAZGZiSjAzTXJtTUU)
+![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAdDlHcjNHY2U0eHc)
 
 
 ## Ссылки
