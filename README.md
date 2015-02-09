@@ -18,7 +18,7 @@
 
 Страница с табами
 
-![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAVnE0WVVrSng5b3M)
+![](http://drive.google.com/uc?export=download&id=0B5GonWS9PJmAdDlHcjNHY2U0eHc)
 
 Одиночная страница
 
